@@ -1,0 +1,30 @@
+
+
+ @import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+
+@import "variables";
+
+
+body{
+  background-color: pink !important;
+}
+.titre{
+  text-align: center;
+}
+form{
+  text-align: center;
+  border: 3px purple solid;
+  margin: auto;
+  padding: 2%;
+  width: 50%;
+}
+ul{
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+}
+a:visited, a:link, .mention  a:hover {
+  color: 	purple;
+}
